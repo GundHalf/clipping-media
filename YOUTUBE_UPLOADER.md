@@ -22,4 +22,6 @@ videos.list part=status -> must become public/unlisted, NOT locked private.
 - write back status "scheduled" + youtube_video_id (commit to this repo), or "error" + message
 - after publish_at: confirm privacyStatus=public
 
+Privacy Policy URL for the consent screen: https://gundhalf.github.io/clipping-media/privacy.html
+
 Claude then submits https://youtube.com/shorts/<youtube_video_id> on Content Rewards within 30 min of publish_at.
