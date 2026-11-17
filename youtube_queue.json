@@ -1,0 +1,52 @@
+{
+  "_about": "YouTube Shorts upload queue for Killfeed Wire + Went Live Clips. Uploader: upload video_url as privacyStatus=private with status.publishAt, then write back youtube_video_id + status. No secrets in this repo.",
+  "timezone_note": "publish_at is UTC (Israel = UTC+2)",
+  "channels": {
+    "killfeedwire": "YouTube channel Killfeed Wire (killfeedwire@gmail.com)",
+    "wentliveclips": "YouTube channel Went Live Clips (wentliveclips@gmail.com)"
+  },
+  "items": [
+    {
+      "id": "2026-11-18_sth_05",
+      "channel": "killfeedwire",
+      "video_url": "https://gundhalf.github.io/clipping-media/2026-11-18/sth_05_looks_brutal.mp4",
+      "publish_at": "2026-11-18T18:00:00Z",
+      "category_id": "20",
+      "made_for_kids": false,
+      "contains_paid_promotion": true,
+      "title": "STRANGER THAN HEAVEN looks absolutely brutal",
+      "description": "Pre-order or Wishlist STRANGER THAN HEAVEN now for XBOX Series/Game Pass/Cloud/PC, PlayStation 5, or Steam and play on January 15th. @sth_game @SEGA_West\n\n#Ad\n#StrangerThanHeaven #RGGStudio #SEGA",
+      "campaign": "SEGA - STRANGER THAN HEAVEN Act 2 Trailer Clipping",
+      "status": "queued",
+      "youtube_video_id": null
+    },
+    {
+      "id": "2026-11-18_gb_03",
+      "channel": "wentliveclips",
+      "video_url": "https://gundhalf.github.io/clipping-media/2026-11-18/gb_03_proof.mp4",
+      "publish_at": "2026-11-18T19:00:00Z",
+      "category_id": "22",
+      "made_for_kids": false,
+      "contains_paid_promotion": false,
+      "title": "Your best friend's wedding is proof you can have it too",
+      "description": "Former Call Her Daddy writer's new show @genius.bimbos\n\n#geniusbimbos #podcast #podcastclips #datingadvice #breakup",
+      "campaign": "Genius Bimbos Podcast Clipping Campaign (submit within 1h)",
+      "status": "queued",
+      "youtube_video_id": null
+    },
+    {
+      "id": "2026-11-18_tm_03",
+      "channel": "killfeedwire",
+      "video_url": "https://gundhalf.github.io/clipping-media/2026-11-18/tm_03_solo_trenches.mp4",
+      "publish_at": "2026-11-18T21:00:00Z",
+      "category_id": "20",
+      "made_for_kids": false,
+      "contains_paid_promotion": false,
+      "title": "10 minutes solo on Trenches - he actually did it",
+      "description": "10 minutes solo on Trenches and he actually escaped 🔥\nLive on twitch.tv/skiimasktimmy\n\n#skiimasktimmy #fps #twitch #twitchclips #streamer #bodycam #gaming",
+      "campaign": "$2,500 SkiiMaskTimmy Streamer Campaign",
+      "status": "queued",
+      "youtube_video_id": null
+    }
+  ]
+}
