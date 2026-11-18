@@ -89,6 +89,34 @@
       "campaign": "$2,500 SkiiMaskTimmy Streamer Campaign",
       "status": "queued",
       "youtube_video_id": null
+    },
+    {
+      "id": "2026-11-18_tomo_03",
+      "channel": "killfeedwire",
+      "video_url": "https://gundhalf.github.io/clipping-media/2026-11-18/tomo_03_unboxing.mp4",
+      "publish_at": "2026-11-18T21:50:00Z",
+      "category_id": "20",
+      "made_for_kids": false,
+      "contains_paid_promotion": false,
+      "title": "Unboxing the official GTA 6 box + the poster inside",
+      "description": "Unboxing the official GTA 6 box + the poster inside 🌴\nSubscribe to Tomo on YouTube 👉 @Tomovids\n\n#tomovids #gta6 #gtavi #gta6news #gaming",
+      "campaign": "TOMO GTA VI Clipping (Clipping Nation)",
+      "status": "queued",
+      "youtube_video_id": null
+    },
+    {
+      "id": "2026-11-18_g6_01",
+      "channel": "killfeedwire",
+      "video_url": "https://gundhalf.github.io/clipping-media/2026-11-18/g6_01_florida.mp4",
+      "publish_at": "2026-11-18T22:10:00Z",
+      "category_id": "20",
+      "made_for_kids": false,
+      "contains_paid_promotion": false,
+      "title": "GTA 6 opens with the most Florida intro ever",
+      "description": "GTA 6 opens with the most Florida intro ever 🐊🌴\nStreamer: DarkViperAU - twitch.tv/darkviperau\n\n#gta6 #gtavi #gta6gameplay #darkviperau #gaming",
+      "campaign": "none (exposure)",
+      "status": "queued",
+      "youtube_video_id": null
     }
   ]
 }
