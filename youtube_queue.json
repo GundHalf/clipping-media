@@ -47,6 +47,48 @@
       "campaign": "$2,500 SkiiMaskTimmy Streamer Campaign",
       "status": "queued",
       "youtube_video_id": null
+    },
+    {
+      "id": "2026-11-19_sth_02",
+      "channel": "killfeedwire",
+      "video_url": "https://gundhalf.github.io/clipping-media/2026-11-19/sth_02_yakuza_oath.mp4",
+      "publish_at": "2026-11-19T18:00:00Z",
+      "category_id": "20",
+      "made_for_kids": false,
+      "contains_paid_promotion": true,
+      "title": "Can't wait to be a badass Yakuza in STRANGER THAN HEAVEN",
+      "description": "Pre-order or Wishlist STRANGER THAN HEAVEN now for XBOX Series/Game Pass/Cloud/PC, PlayStation 5, or Steam and play on January 15th. @sth_game @SEGA_West\n\n#Ad\n#StrangerThanHeaven #RGGStudio #SEGA",
+      "campaign": "SEGA - STRANGER THAN HEAVEN Act 2 Trailer Clipping",
+      "status": "queued",
+      "youtube_video_id": null
+    },
+    {
+      "id": "2026-11-19_sh_02",
+      "channel": "wentliveclips",
+      "video_url": "https://gundhalf.github.io/clipping-media/2026-11-19/sh_02_boring.mp4",
+      "publish_at": "2026-11-19T19:00:00Z",
+      "category_id": "24",
+      "made_for_kids": false,
+      "contains_paid_promotion": false,
+      "title": "His commercial got shut down mid-sentence | Stream House LA",
+      "description": "He got 25 seconds into his commercial before the judges shut it down 😭\nDownload CWETV to watch the full episode @morgandwestbrooks\n\n#streamhouselacwe #streamhousela #cwetv #chickenwrapentertainment",
+      "campaign": "Stream House LA (Motion Clipping)",
+      "status": "queued",
+      "youtube_video_id": null
+    },
+    {
+      "id": "2026-11-19_tm_04",
+      "channel": "killfeedwire",
+      "video_url": "https://gundhalf.github.io/clipping-media/2026-11-19/tm_04_prediction.mp4",
+      "publish_at": "2026-11-19T21:00:00Z",
+      "category_id": "20",
+      "made_for_kids": false,
+      "contains_paid_promotion": false,
+      "title": "Chat bet on how long he'd survive. It went badly.",
+      "description": "Chat bet on how many minutes he'd survive. It was over in about one 💀\nLive on twitch.tv/skiimasktimmy\n\n#skiimasktimmy #fps #twitch #twitchclips #streamer #bodycam #gaming",
+      "campaign": "$2,500 SkiiMaskTimmy Streamer Campaign",
+      "status": "queued",
+      "youtube_video_id": null
     }
   ]
 }
