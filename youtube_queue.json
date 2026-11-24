@@ -273,6 +273,48 @@
    "campaign": "none (exposure)",
    "status": "queued",
    "youtube_video_id": null
+  },
+  {
+   "id": "2026-11-24_jw_03",
+   "channel": "killfeedwire",
+   "video_url": "https://gundhalf.github.io/clipping-media/2026-11-24/jw_03_8ball.mp4",
+   "publish_at": "2026-11-24T20:00:00Z",
+   "category_id": "20",
+   "made_for_kids": false,
+   "contains_paid_promotion": false,
+   "title": "JasonTheWeen vs the GTA 6 8-ball shot 😭",
+   "description": "JasonTheWeen vs the GTA 6 8-ball shot 😭 Could you make this shot?\n\nCredit: twitch.tv/jasontheween\n\n#JasonTheWeen #gta6 #gtavi #streamer #shorts",
+   "campaign": "JasonTheWeen Reach pool + CORE pool",
+   "status": "queued",
+   "youtube_video_id": null
+  },
+  {
+   "id": "2026-11-25_jw_01",
+   "channel": "killfeedwire",
+   "video_url": "https://gundhalf.github.io/clipping-media/2026-11-25/jw_01_road_rage.mp4",
+   "publish_at": "2026-11-25T00:00:00Z",
+   "category_id": "20",
+   "made_for_kids": false,
+   "contains_paid_promotion": false,
+   "title": "JasonTheWeen vs GTA 6 road rage 😭",
+   "description": "JasonTheWeen vs GTA 6 road rage 😭 Would you have chased him?\n\nCredit: twitch.tv/jasontheween\n\n#JasonTheWeen #gta6 #core #streamer #shorts",
+   "campaign": "JasonTheWeen Reach pool + CORE pool",
+   "status": "queued",
+   "youtube_video_id": null
+  },
+  {
+   "id": "2026-11-25_jw_05",
+   "channel": "killfeedwire",
+   "video_url": "https://gundhalf.github.io/clipping-media/2026-11-25/jw_05_15_years.mp4",
+   "publish_at": "2026-11-25T20:00:00Z",
+   "category_id": "20",
+   "made_for_kids": false,
+   "contains_paid_promotion": false,
+   "title": "JasonTheWeen has to wait 15 more years 😭",
+   "description": "JasonTheWeen has to wait 15 more years for the answer 😭 What do you think was in the files?\n\nCredit: twitch.tv/jasontheween\n\n#JasonTheWeen #gta6 #gtavi #streamer #shorts",
+   "campaign": "JasonTheWeen Reach pool + CORE pool",
+   "status": "queued",
+   "youtube_video_id": null
   }
  ]
 }
